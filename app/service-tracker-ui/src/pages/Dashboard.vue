@@ -1,9 +1,10 @@
 <template>
+            <p><font color="red">Welcome!</font></p>
   <div>
     <div class="row">
           <div class="col-md-6 col-xl-3">
             <h6>SERVICE STATUS</h6>
-            <p><font color="red">Welcome!</font></p?
+
           </div>
     </div>
 
